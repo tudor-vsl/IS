@@ -1,0 +1,6 @@
+Proiectul are niste scapari. Acesta ruleaza corect (face criptarea si decriptarea corect), dar nu inteleg de ce cateodata imi da erori si cateodata nu. Daca il veti rula de mai
+multe ori veti vedea si erorile ce apar si astfel ma puteti ajuta sa inteleg care e problema si vedea si modul in care ruleaza (doar sa aveti rabdare...).
+
+PENTRU A RULA PROGRAMUL:
+  Da-ti run la fisierle urmatoare in aceasta ordine : A_server.py , KM_client.py, B_client.py
+  
